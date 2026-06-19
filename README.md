@@ -9,17 +9,20 @@ An all-in-one osu! skin that covers every single game mode. The goal was to make
 ![Screenshot 1](screenshots/Menu/start.png)
 ![Screenshot 2](screenshots/Menu/menu.png)
 ![Screenshot 3](screenshots/Menu/gm.png)
-![Screenshot 3](screenshots/Menu/Mods.png)
+![Screenshot 4](screenshots/Menu/Mods.png)
 
 </details>
 
 <details>
 <summary>Gameplay</summary>
   
-![Screenshot 1](xcreenshots/start.png)
-![Screenshot 2](xcreenshots/menu%2C%20rankings.png)
-![Screenshot 3](xcreenshots/gm.png)
-![Screenshot 3](xcreenshots/Mods.png)
+![Screenshot 1](screenshots/Gameplay/STD.png)
+![Screenshot 2](screenshots/Gameplay/Mania4k.png)
+![Screenshot 3](screenshots/Gameplay/Mania7kpng)
+![Screenshot 4](screenshots/Gameplay/Mania10k.png)
+![Screenshot 5](screenshots/Gameplay/CTB.png)
+![Screenshot 6](screenshots/Gameplay/Taiko.png)
+
 
 </details>
 
