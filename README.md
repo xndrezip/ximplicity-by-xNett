@@ -1,4 +1,6 @@
-# ximplicity by xNett
+<div align="center">
+  <h1>ximplicity by xNett</h1>
+</div>
 
 ![Banner](assets/ximplicity.png)
 
@@ -20,7 +22,7 @@ An all-in-one osu! skin that covers every single game mode. The goal was to make
   
 ![Screenshot 1](screenshots/Gameplay/STD.png)
 ![Screenshot 2](screenshots/Gameplay/Mania4k.png)
-![Screenshot 3](screenshots/Gameplay/Mania7kpng)
+![Screenshot 3](screenshots/Gameplay/Mania7k.png)
 ![Screenshot 4](screenshots/Gameplay/Mania10k.png)
 ![Screenshot 5](screenshots/Gameplay/CTB.png)
 ![Screenshot 6](screenshots/Gameplay/Taiko.png)
