@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ximplicity by xNett</h1>
+  <h1>ximplicity: a fully skinned, 4-mode osu! skin</h1>
 </div>
 
 ![Banner](assets/ximplicity.png)
