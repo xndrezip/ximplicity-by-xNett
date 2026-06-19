@@ -6,10 +6,10 @@ An all-in-one osu! skin that covers every single game mode. The goal was to make
 <details>
 <summary>Menu</summary>
   
-![Screenshot 1](xcreenshots/start.png)
-![Screenshot 2](xcreenshots/menu%2C%20rankings.png)
-![Screenshot 3](xcreenshots/gm.png)
-![Screenshot 3](xcreenshots/Mods.png)
+![Screenshot 1](screenshots/Menu/start.png)
+![Screenshot 2](screenshots/Menu/menu.png)
+![Screenshot 3](screenshots/Menu/gm.png)
+![Screenshot 3](screenshots/Menu/Mods.png)
 
 </details>
 
