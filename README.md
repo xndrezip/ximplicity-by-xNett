@@ -4,9 +4,11 @@
 
 ![Banner](assets/ximplicity.png)
 
+<div align="center">
 An all-in-one osu! skin that covers every single game mode. The goal was to make something that looks great (I hope!) and stays perfectly legible for both new and experienced players.
 
 [![Watch skin showcase!](assets/YouTube.png)](https://youtu.be/4SwAvZHwAEk)
+</div>
 
 ## Screenshots
 <details>
