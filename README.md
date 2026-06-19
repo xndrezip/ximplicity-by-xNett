@@ -1,5 +1,7 @@
 # ximplicity by xNett
 
+![Banner](Assets/ximplicity.png)
+
 An all-in-one osu! skin that covers every single game mode. The goal was to make something that looks great (I hope!) and stays perfectly legible for both new and experienced players.
 
 ## Screenshots
