@@ -42,11 +42,6 @@ An all-in-one osu! skin that covers every single game mode. The goal was to make
 ## Supported Modes
 All of them! :)
 
-## Installation
-1. Download the `.osk` file from the **Releases** section.
-2. In osu!, go to **Options** > **Select Skin** > choose **"Ximplicity"**.
-3. Restart osu! if it doesn't appear immediately.
-
 ## Compatibility
 - **osu! Version**: Stable (gameplay should work perfectly on Lazer too)
 - **Recommended Resolution**: 1920x1080 (16:9 FHD) or 1280x720 (16:9 HD)
