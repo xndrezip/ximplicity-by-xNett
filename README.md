@@ -52,7 +52,9 @@ All of them! :)
 - **Recommended Resolution**: 1920x1080 (16:9 FHD) or 1280x720 (16:9 HD)
 
 ## Customization
-Want to personalize this skin? You can easily customize osu!mania hit positions and note colors, as well as for the other game modes by editing the provided `.AI` files. All source files for all modes are included in the G-Drive link. Feel free to modify them to match your preferences and create your own unique version!
+Want to personalize this skin? You can easily customize osu!mania hit positions and note colors, as well as for the other game modes by editing the provided `.AI` files in [assets](assets). All source files for all modes are included in the G-Drive link. Feel free to modify them to match your preferences and create your own unique version!
+
+<i>Note: I’ll be dropping a video tutorial for this on YouTube in the near future.<i>
 
 ## Changelog
 - **v1.0.0** — Initial release
