@@ -2,10 +2,12 @@
   <h1>ximplicity: a fully skinned, 4-mode osu! skin</h1>
 </div>
 
-[![Banner](assets/ximplicity.png)](https://osu.ppy.sh/users/4998501)
+[![Banner](assets/ximplicity.png)](https://osu.ppy.sh/community/forums/topics/2216973?n=1)
 
 <div align="center">
 An all-in-one osu! skin that covers every single game mode. The goal was to make something that looks great (I hope!) and stays perfectly legible for both new and experienced players.
+
+[G-DRIVE Folder](https://drive.google.com/drive/u/1/folders/1YH_jKn_DG1l4vJEISPVO5EVRcqV4lvpF)
 
 [![Watch skin showcase!](assets/YouTube.png)](https://youtu.be/4SwAvZHwAEk)
 </div>
